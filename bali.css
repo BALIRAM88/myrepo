@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+    background-color: #f4f4f4; /* Light grey background */
+    font-family: Arial, sans-serif; /* Use Arial font */
+    color: #333; /* Dark grey text color */
+}
+
+h1 {
+    color: #09912b; /* Green color for headings */
+    text-align: center; /* Center align headings */
+}
+
+p {
+    font-size: 18px; /* Larger font size for paragraphs */
+    line-height: 1.6; /* Improve readability with more space between lines */
+}
